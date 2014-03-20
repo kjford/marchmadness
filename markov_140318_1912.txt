@@ -1,0 +1,75 @@
+Division South:
+Seed 1 playing seed 16 and 1 wins!
+Seed 8 playing seed 9 and 9 wins!
+Seed 1 playing seed 9 and 1 wins!
+Seed 5 playing seed 12 and 5 wins!
+Seed 4 playing seed 13 and 4 wins!
+Seed 5 playing seed 4 and 4 wins!
+Seed 1 playing seed 4 and 1 wins!
+Seed 6 playing seed 11 and 11 wins!
+Seed 3 playing seed 14 and 3 wins!
+Seed 11 playing seed 3 and 3 wins!
+Seed 7 playing seed 10 and 7 wins!
+Seed 2 playing seed 15 and 2 wins!
+Seed 7 playing seed 2 and 2 wins!
+Seed 3 playing seed 2 and 3 wins!
+Seed 1 playing seed 3 and 1 wins!
+Seed 1 won Division South!
+Division East:
+Seed 1 playing seed 16 and 1 wins!
+Seed 8 playing seed 9 and 9 wins!
+Seed 1 playing seed 9 and 9 wins!
+Seed 5 playing seed 12 and 12 wins!
+Seed 4 playing seed 13 and 4 wins!
+Seed 12 playing seed 4 and 4 wins!
+Seed 9 playing seed 4 and 4 wins!
+Seed 6 playing seed 11 and 6 wins!
+Seed 3 playing seed 14 and 3 wins!
+Seed 6 playing seed 3 and 3 wins!
+Seed 7 playing seed 10 and 10 wins!
+Seed 2 playing seed 15 and 2 wins!
+Seed 10 playing seed 2 and 2 wins!
+Seed 3 playing seed 2 and 2 wins!
+Seed 4 playing seed 2 and 4 wins!
+Seed 4 won Division East!
+Division West:
+Seed 1 playing seed 16 and 1 wins!
+Seed 8 playing seed 9 and 8 wins!
+Seed 1 playing seed 8 and 1 wins!
+Seed 5 playing seed 12 and 12 wins!
+Seed 4 playing seed 13 and 4 wins!
+Seed 12 playing seed 4 and 4 wins!
+Seed 1 playing seed 4 and 1 wins!
+Seed 6 playing seed 11 and 11 wins!
+Seed 3 playing seed 14 and 3 wins!
+Seed 11 playing seed 3 and 3 wins!
+Seed 7 playing seed 10 and 7 wins!
+Seed 2 playing seed 15 and 2 wins!
+Seed 7 playing seed 2 and 2 wins!
+Seed 3 playing seed 2 and 2 wins!
+Seed 1 playing seed 2 and 1 wins!
+Seed 1 won Division West!
+Division Midwest:
+Seed 1 playing seed 16 and 1 wins!
+Seed 8 playing seed 9 and 8 wins!
+Seed 1 playing seed 8 and 1 wins!
+Seed 5 playing seed 12 and 12 wins!
+Seed 4 playing seed 13 and 4 wins!
+Seed 12 playing seed 4 and 4 wins!
+Seed 1 playing seed 4 and 4 wins!
+Seed 6 playing seed 11 and 6 wins!
+Seed 3 playing seed 14 and 14 wins!
+Seed 6 playing seed 14 and 6 wins!
+Seed 7 playing seed 10 and 7 wins!
+Seed 2 playing seed 15 and 2 wins!
+Seed 7 playing seed 2 and 7 wins!
+Seed 6 playing seed 7 and 6 wins!
+Seed 4 playing seed 6 and 6 wins!
+Seed 6 won Division Midwest!
+Final 4 time
+Seed 1 playing seed 4 and 1 wins!
+Seed 1 from the South won
+Seed 1 playing seed 6 and 1 wins!
+Seed 1 from the West won
+Final...
+Seed 1 from the West won it all!
